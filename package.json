@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-njs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajalloh1/readMe-Generator-Njs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajalloh1/readMe-Generator-Njs/issues"
+  },
+  "homepage": "https://github.com/Ajalloh1/readMe-Generator-Njs#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
