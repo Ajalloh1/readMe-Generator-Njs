@@ -34,10 +34,22 @@ function generateMarkdown(data) {
  ${data.installation}
 
  ## Usage
- ${data.Usage}
+ ${data.usage}
 
  ## gitHubUsername
- ${data.gitHubUserName}
+ ${data.githubUsername}
+
+ ## Description
+ ${data.description}
+
+ ## Email address 
+ ${data.email}
+
+##contributing
+${data.contribute}
+
+## Tests
+ ${data.test}
 
 
  ${renderLicenseSection(data.license)}
@@ -46,6 +58,7 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
 
 
 // GIVEN a command-line application that accepts user input

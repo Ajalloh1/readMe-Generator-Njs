@@ -17,6 +17,21 @@ const questions = [
             }
         }
     },
+    /////
+    {
+        type: 'input',
+        message: "Please write a short description of your project.",
+        name: 'description',
+        validate: (answer) => {
+            if (answer.length <1) {
+                return console.log('You must enter a valid project description to continue.');
+            }
+            return true;
+        }
+    },
+
+
+    /////
     {
         type: 'input',
         name: 'githubUsername',
@@ -58,19 +73,7 @@ const questions = [
             }
         }
     },
-    {
-        type: 'input',
-        name: 'why',
-        message: 'Why did you create this project?',
-        validate: whyInput => {
-            if (whyInput) {
-                return true;
-            } else {
-                console.log('Please enter why you created this project!');
-                return false;
-            }
-        }
-    },
+    
     {
         type: 'input',
         name: 'how',
@@ -93,19 +96,6 @@ const questions = [
                 return true;
             } else {
                 console.log('Please enter your installation instructions!');
-                return false;
-            }
-        }
-    },
-    {
-        type: 'input',
-        name: 'usage',
-        message: 'Please provide instructions and examples for use',
-        validate: usageInput => {
-            if (usageInput) {
-                return true;
-            } else {
-                console.log('Please enter your use instructions!');
                 return false;
             }
         }
