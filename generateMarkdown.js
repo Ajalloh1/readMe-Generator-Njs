@@ -1,33 +1,35 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if(license==="Apache-2.0"){
-    return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+  if (license === "Apache-2.0") {
+    return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
   }
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if(license==="Apache-2.0"){
-    return "(https://opensource.org/licenses/Apache-2.0)"
+  if (license === "Apache-2.0") {
+    return "(https://opensource.org/licenses/Apache-2.0)";
   }
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if(license==="No License"){
-    return ""
+  if (license === "No License") {
+    return "";
   }
   return `## License\n
-  This Project uses ${license}, you can find more information here: ${renderLicenseLink(license)} 
-  `
+  This Project uses ${license}, you can find more information here: ${renderLicenseLink(
+    license
+  )} 
+  `;
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-    console.log(data);
+  console.log(data);
   return `# ${data.title} ${renderLicenseBadge(data.license)}
 
   ## Installation 
@@ -58,8 +60,6 @@ ${data.contribute}
 }
 
 module.exports = generateMarkdown;
-
-
 
 // GIVEN a command-line application that accepts user input
 // WHEN I am prompted for information about my application repository

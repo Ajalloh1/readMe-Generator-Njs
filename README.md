@@ -1,4 +1,13 @@
 # readMe-Generator-Njs
+## Table of Contents
+
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [Tests](#tests)
+7. [License](#license)
+8. [Questions](#questions)
 
 Next generation readMe generator
 ## Description
@@ -23,3 +32,12 @@ Third party contributions are allowed, but you must first contact the author via
 ## Tests
 Install the file, open it in VS code. Open it in the terminal, and answer the questions, and check to see if it populates in the readMed files
 
+## Questions
+
+For any questions inquiries, please reachout to me via email or git link. Thank you.
+
+- **Github:** [my github](https://github.com/Ajalloh1)
+- **Email:** [jalloh@gmail.com](jalloh@gmail.co)
+## License
+
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
