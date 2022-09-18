@@ -10,6 +10,9 @@
 8. [Questions](#questions)
 
 Next generation readMe generator
+
+![Homepage.](./images/image1.png)
+![Homepage.](./images/image2.png)
 ## Description
 This is a ReadMe generator application. This application helps users generate a readme easily and fast. 
 The application provides questions as a framework for the readme. All the user needs to do is to answer the questions and a professional read me is generated for them.
@@ -36,7 +39,9 @@ Install the file, open it in VS code. Open it in the terminal, and answer the qu
 
 For any questions inquiries, please reachout to me via email or git link. Thank you.
 
-- **Github:** [my github](https://github.com/Ajalloh1)
+## Demo [functionality] (https://drive.google.com/file/d/1506C4Se1bqRKfPe3C8Q-ka8QBFR9RB9_/view)
+
+- **Github:** [my github](https://ajalloh1.github.io/readMe-Generator-Njs/)
 - **Email:** [jalloh@gmail.com](jalloh@gmail.co)
 ## License
 
