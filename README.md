@@ -40,7 +40,7 @@ Install the file, open it in VS code. Open it in the terminal, and answer the qu
 
 For any questions inquiries, please reachout to me via email or git link. Thank you.
 
-## Demo [functionality] (https://drive.google.com/file/d/1506C4Se1bqRKfPe3C8Q-ka8QBFR9RB9_/view)
+## videoDemo (https://drive.google.com/file/d/1506C4Se1bqRKfPe3C8Q-ka8QBFR9RB9_/view
 
 - **Github:** [my github](https://ajalloh1.github.io/readMe-Generator-Njs/)
 - **Email:** [jalloh@gmail.com](jalloh@gmail.co)
