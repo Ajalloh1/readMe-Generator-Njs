@@ -30,7 +30,8 @@ Once the file is successfully installed, you can then follow up with running it 
 The app can be very useful to developer as it’s easy to use and therefore can be a motivation for developers to include a readme to their projects.
 
 ## Contributing
-Third party contributions are allowed, but you must first contact the author via the email provided. 
+Third party contributions are allowed, but you must first contact the author via the email provided and or phone number. If having any technical issue,
+please submit a ticket to our support team.
 
 ## Tests
 Install the file, open it in VS code. Open it in the terminal, and answer the questions, and check to see if it populates in the readMed files
