@@ -43,7 +43,4 @@ For any questions inquiries, please reachout to me via email or git link. Thank 
 ## videoDemo (https://drive.google.com/file/d/1506C4Se1bqRKfPe3C8Q-ka8QBFR9RB9_/view
 ## git user https://github.com/Ajalloh1
 
-- **Email:** [jalloh@gmail.com](jalloh@gmail.co)
-## License
-
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+- **Email:** [mys4jalloh@gmail.com](mys4jalloh@gmail.com)
